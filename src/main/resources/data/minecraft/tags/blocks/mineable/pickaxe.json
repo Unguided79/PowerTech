@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "powertech:molybdenum_ore_block",
+    "powertech:molybdenum_block",
+    "powertech:technetium_block"
+  ]
+}

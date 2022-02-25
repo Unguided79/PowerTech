@@ -1,0 +1,13 @@
+{
+
+  "itemGroup.powertech.technetium": "PowerTech",
+
+  "item.powertech.technetium_ingot": "Technetium Ingot",
+  "item.powertech.molybdenum_ingot": "Molybdenum Ingot",
+  "item.powertech.molybdenum_nugget": "Molybdenum Nugget",
+  "item.powertech.technetium_nugger": "Technetium Nugget",
+
+  "block.powertech.molybdenum_block": "Molybdenum Block",
+  "block.powertech.technetium_block": "Techneetium Block",
+  "block.powertech.molybdenum_ore_block": "Molybdenum Ore"
+}

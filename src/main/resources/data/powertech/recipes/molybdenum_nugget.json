@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "powertech:molybdenum_ingot"
+    }
+  ],
+  "result": {
+    "item": "powertech:molybdenum_nugget",
+    "count": 9
+  }
+}

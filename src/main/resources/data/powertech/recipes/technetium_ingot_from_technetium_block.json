@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "technetium_ingot",
+  "ingredients": [
+    {
+      "item": "powertech:technetium_block"
+    }
+  ],
+  "result": {
+    "item": "powertech:technetium_ingot",
+    "count": 9
+  }
+}

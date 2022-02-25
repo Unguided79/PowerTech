@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "technetium_ingot",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "powertech:technetium_nugget"
+    }
+  },
+  "result": {
+    "item": "powertech:technetium_ingot"
+  }
+}

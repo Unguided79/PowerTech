@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "molybdenum_ingot",
+  "ingredients": [
+    {
+      "item": "powertech:molybdenum_block"
+    }
+  ],
+  "result": {
+    "item": "powertech:molybdenum_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "molybdenum_ingot",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "powertech:molybdenum_nugget"
+    }
+  },
+  "result": {
+    "item": "powertech:molybdenum_ingot"
+  }
+}
