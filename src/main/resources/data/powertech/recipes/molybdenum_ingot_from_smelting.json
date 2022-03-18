@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "molybdenum_ingot",
+  "ingredient": {
+    "item": "powertech:raw_molybdenum"
+  },
+  "result": "powertech:molybdenum_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}
